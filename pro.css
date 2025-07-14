@@ -94,6 +94,7 @@ h6{
     width: 98vw;
     height: 98vh;
     position: relative;
+    margin-top: 80px;
     top: 200px;
     color: white;
     .p2{
@@ -122,7 +123,7 @@ h6{
 }
 .d4{
     position: absolute;
-    top: 35%;
+    top: 45%;
     left: 30%;
     font-size: 30px;
     line-height: 50px;
@@ -147,60 +148,30 @@ h6{
     h1{
         color: aqua;
         font-family:Cambria;
-        font-size: 50px;
+        font-size: 40px;
     }
     p{
         font-family: 'Times New Roman', Times, serif;
         /* line-height: 30px; */
     }
-    #ps1,#ps2,#ps6,#ps7{
+    h3{
         font-size: xx-large;
-        margin-left: 70px;
+        margin-left:70px;
     }
-    #ps6
-    {
-        line-height: 45px;
+    
+    p {
+        line-height: 40px;
+        font-family:Cambria;
+        font-size: 30px;
+        margin-left: 200px;
     }
-    #full{
-        color: aqua;
-        font-weight: 600;
-        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
-    #te{
-        color: aqua;
-        font-size: x-large;
-        font-weight: 600;
-        margin-left: 30px;
-        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
-    #ps4{
-        color: aqua;
-        font-size: x-large;
-        font-weight: 600;
-        margin-left: 30px;
-        margin-top: 10px;
-        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
-    #ps5{
-        color:white;
-        font-size:xx-large;
-        /* font-weight: 600; */
-        margin-left: 30px;
-        margin-top: 20px;
+    .right{
         position: absolute;
-        top: 470px;
-        right: 20px;
-        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        left:550px;
+        top: 200px;
+        line-height: 40px;
+        
     }
-    #ang,#rd{
-        color: aqua;
-    }
-    /* .bar1{
-        width: 300px;
-        height: 10px;
-        border-radius:10px;
-        background-color:blue;
-    } */
 
 }
 #project{
